@@ -1,0 +1,25 @@
+{
+  "name": "back_end",
+  "version": "1.0.0",
+  "description": "medicine search tracking system",
+  "homepage": "https://github.com/akhilanelikanti/Medicine-Search-Tracking-System#readme",
+  "bugs": {
+    "url": "https://github.com/akhilanelikanti/Medicine-Search-Tracking-System/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhilanelikanti/Medicine-Search-Tracking-System.git"
+  },
+  "license": "ISC",
+  "author": "akhilanelikanti",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "express": "^5.2.1",
+    "mongoose": "^9.10.2"
+  }
+}
